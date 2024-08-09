@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+    padding: 8px;
+    margin-left: 12px;
+    border-radius: 5px;
+    
+}
+
+label {
+    font-size: large;
+    font-weight: bold;
+    margin-left: 12px;
+}
